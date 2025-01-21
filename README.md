@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+
+pnpm install
+pnpm dev or pnpm build
